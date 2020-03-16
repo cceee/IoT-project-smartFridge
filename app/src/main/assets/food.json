@@ -1,0 +1,260 @@
+{
+  "food_list": [
+    {
+      "id": "1",
+      "name": "Milk",
+      "image": "1",
+      "label": "dairy",
+      "calorie(kcal)": "150",
+      "notes": "per 240ml"
+    },
+    {
+      "id": "2",
+      "name": "Milk, nonfat",
+      "image": "2",
+      "label": "dairy",
+      "calorie(kcal)": "90",
+      "notes": "per 240ml"
+    },
+    {
+      "id": "3",
+      "name": "Milk, reduced fat",
+      "image": "3",
+      "label": "dairy",
+      "calorie(kcal)": "130",
+      "notes": "per 240ml"
+    },
+    {
+      "id": "4",
+      "name": "Yogurt, flavored",
+      "image": "4",
+      "label": "dairy",
+      "calorie(kcal)": "150",
+      "notes": "1box(150g)"
+    },
+    {
+      "id": "5",
+      "name": "Yogurt, regular",
+      "image": "5",
+      "label": "dairy",
+      "calorie(kcal)": "150",
+      "notes": "1box(150g)"
+    },
+    {
+      "id": "6",
+      "name": "Yogurt, lowfat",
+      "image": "6",
+      "label": "dairy",
+      "calorie(kcal)": "110",
+      "notes": "1box(150g)"
+    },
+    {
+      "id": "7",
+      "name": "Yogurt, nonfat",
+      "image": "7",
+      "label": "dairy",
+      "calorie(kcal)": "90",
+      "notes": "per 240ml"
+    },
+    {
+      "id": "8",
+      "name": "Almond milk, sweetened",
+      "image": "8",
+      "label": "dairy",
+      "calorie(kcal)": "150",
+      "notes": "per 240ml"
+    },
+    {
+      "id": "9",
+      "name": "Almond milk, unsweetened",
+      "image": "9",
+      "label": "dairy",
+      "calorie(kcal)": "110",
+      "notes": "per 240ml"
+    },
+    {
+      "id": "10",
+      "name": "oat milk, unsweetened",
+      "image": "10",
+      "label": "dairy",
+      "calorie(kcal)": "110",
+      "notes": "per 240ml"
+    },
+    {
+      "id": "11",
+      "name": "Soy milk, regular",
+      "image": "11",
+      "label": "bean",
+      "calorie(kcal)": "110",
+      "notes": "per 240ml"
+    },
+    {
+      "id": "12",
+      "name": "Soy milk, unsweetened",
+      "image": "12",
+      "label": "bean",
+      "calorie(kcal)": "80",
+      "notes": "per 240ml"
+    },
+    {
+      "id": "13",
+      "name": "orange juice",
+      "image": "13",
+      "label": "juice",
+      "calorie(kcal)": "190",
+      "notes": "per bottle"
+    },
+    {
+      "id": "14",
+      "name": "coconut water",
+      "image": "14",
+      "label": "juice",
+      "calorie(kcal)": "80",
+      "notes": "per bottle"
+    },
+    {
+      "id": "15",
+      "name": "apple juice",
+      "image": "15",
+      "label": "juice",
+      "calorie(kcal)": "190",
+      "notes": "per bottle"
+    },
+    {
+      "id": "16",
+      "name": "meat",
+      "image": "16",
+      "label": "meat",
+      "calorie(kcal)": "72",
+      "notes": "piece (50g)"
+    },
+    {
+      "id": "17",
+      "name": "egg",
+      "image": "17",
+      "label": "egg",
+      "calorie(kcal)": "70",
+      "notes": "each"
+    },
+    {
+      "id": "18",
+      "name": "apple",
+      "image": "18",
+      "label": "fruit",
+      "calorie(kcal)": "80",
+      "notes": "each"
+    },
+    {
+      "id": "19",
+      "name": "orange",
+      "image": "19",
+      "label": "fruit",
+      "calorie(kcal)": "50",
+      "notes": "each"
+    },
+    {
+      "id": "20",
+      "name": "plum",
+      "image": "20",
+      "label": "fruit",
+      "calorie(kcal)": "25",
+      "notes": "each"
+    },
+    {
+      "id": "21",
+      "name": "papaya",
+      "image": "21",
+      "label": "fruit",
+      "calorie(kcal)": "90",
+      "notes": "pack（150g）"
+    },
+    {
+      "id": "22",
+      "name": "peach",
+      "image": "22",
+      "label": "fruit",
+      "calorie(kcal)": "72",
+      "notes": "each"
+    },
+    {
+      "id": "23",
+      "name": "blueberry",
+      "image": "23",
+      "label": "fruit",
+      "calorie(kcal)": "114",
+      "notes": "pack（150g）"
+    },
+    {
+      "id": "24",
+      "name": "strawberry",
+      "image": "24",
+      "label": "fruit",
+      "calorie(kcal)": "140",
+      "notes": "pack（10个）"
+    },
+    {
+      "id": "25",
+      "name": "grape",
+      "image": "25",
+      "label": "fruit",
+      "calorie(kcal)": "194",
+      "notes": "pack"
+    },
+    {
+      "id": "26",
+      "name": "carrot",
+      "image": "26",
+      "label": "vegetable",
+      "calorie(kcal)": "116",
+      "notes": "each"
+    },
+    {
+      "id": "27",
+      "name": "broccoli",
+      "image": "27",
+      "label": "vegetable",
+      "calorie(kcal)": "54",
+      "notes": "each（150g）"
+    },
+    {
+      "id": "28",
+      "name": "cucumber",
+      "image": "28",
+      "label": "vegetable",
+      "calorie(kcal)": "19",
+      "notes": "each"
+    },
+    {
+      "id": "29",
+      "name": "Leafy greens",
+      "image": "29",
+      "label": "vegetable",
+      "calorie(kcal)": "30",
+      "notes": "pack（150g）"
+    },
+    {
+      "id": "30",
+      "name": "corn",
+      "image": "30",
+      "label": "staple food",
+      "calorie(kcal)": "148",
+      "notes": "each"
+    },
+    {
+      "id": "31",
+      "name": "potato",
+      "image": "31",
+      "label": "staple food",
+      "calorie(kcal)": "175",
+      "notes": "each"
+    },
+    {
+      "id": "32",
+      "name": "sweet potato",
+      "image": "32",
+      "label": "staple food",
+      "calorie(kcal)": "165",
+      "notes": "each"
+    }
+  ]
+}
